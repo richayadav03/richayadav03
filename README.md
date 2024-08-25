@@ -5,19 +5,14 @@ I’m a passionate technology enthusiast with a strong foundation in programming
 ## Talking about Personal Stuff:
 
 - 👨‍🎓 I’m a dedicated technology student with expertise in C++, Python, HTML/CSS/JavaScript, and database management.
-- 🔭 I’m currently exploring big data applications and blockchain technology.
-- 💬 Feel free to ask me about tech innovations, programming challenges, or project insights—I’m here to help!
-- 🌱 Currently learning: Advanced data visualization techniques, real-time sign language detection, and agile methodologies.
-
-## Connect with Me:
-
-- 📬 How to reach me: [YourEmail](mailto:yadav06richa@gmail.com)
+- 🔭 I’m currently diving towards full-stack projects, integrating both frontend and backend technologies to build comprehensive solutions.
+- 💬 Feel free to ask me about tech innovations, programming challenges, or project insights — I’m here to help!
 
 ## 🛠️ My Favourite Tools:
 
 - 👨‍💻 **Programming Languages:** C++, Python, HTML, CSS, JavaScript, SQL
 - 🧰 **Frameworks and Libraries:** TensorFlow, PyTorch, React, matplotlib, pandas
-- 🗄 **Databases and Cloud Hosting:** MySQL, phpMyAdmin
+- 🗄 **Databases:** MySQL, phpMyAdmin
 - 💻 **Software and Tools:** Visual Studio Code, Jupyter, Git
 
 ## Let's Connect and Innovate Together! 🚀
